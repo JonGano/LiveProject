@@ -46,7 +46,7 @@ the previous method "convertPhoto()" passing in this image file and assigning th
 
 Within the foreach loop is a line of code that converts the byte[] to base 64 string so that the user sees the image instead of an array of numbers.</br>
 ![ConvertToBase64](https://user-images.githubusercontent.com/97046218/164068211-94409655-ea78-41f6-8074-deada3943201.png)
-The above line utilizes viewbag so that this new string can be sent as the source to the html image tag below.
+This line utilizes viewbag so that this new string can be sent as the source to the html image tag below.
 ![AnchorTag](https://user-images.githubusercontent.com/97046218/164068671-8b45d158-28ca-4b07-ac02-82333e7ca798.png)
 The image attribute is nested within an anchor<a> tag for the purpose of turning the displayed image into a link that when clicked on sends the user</br>
 to the images details page.
