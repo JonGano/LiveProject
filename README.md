@@ -23,7 +23,7 @@ These included styled submit and back buttons with hover effects, header and inp
 ![EditPage](https://user-images.githubusercontent.com/97046218/164059793-742eaeb1-7743-4120-984d-927d28bd631d.png)
 
 # story 3:
-On this story I worked on photo storage and retrieval by first I creating an html input field on the create and edit views</br>
+On this story I worked on photo storage and retrieval by first creating an html input field on the create and edit views</br>
 for the user to upload image files.  
 ![ImgFileFromViewPage](https://user-images.githubusercontent.com/97046218/164060320-87ab9956-0537-4b2c-8252-983573786d0f.png)
 Given a unique Id/name for the input attribute, the blogPhoto Controller can then call on it as an argument for a method.</br>
